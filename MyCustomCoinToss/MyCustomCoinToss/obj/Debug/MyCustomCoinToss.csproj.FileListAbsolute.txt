@@ -1,0 +1,6 @@
+c:\users\jamie\documents\visual studio 2017\Projects\MyCustomCoinToss\MyCustomCoinToss\bin\Debug\MyCustomCoinToss.exe.config
+c:\users\jamie\documents\visual studio 2017\Projects\MyCustomCoinToss\MyCustomCoinToss\bin\Debug\MyCustomCoinToss.exe
+c:\users\jamie\documents\visual studio 2017\Projects\MyCustomCoinToss\MyCustomCoinToss\bin\Debug\MyCustomCoinToss.pdb
+c:\users\jamie\documents\visual studio 2017\Projects\MyCustomCoinToss\MyCustomCoinToss\obj\Debug\MyCustomCoinToss.csprojResolveAssemblyReference.cache
+c:\users\jamie\documents\visual studio 2017\Projects\MyCustomCoinToss\MyCustomCoinToss\obj\Debug\MyCustomCoinToss.exe
+c:\users\jamie\documents\visual studio 2017\Projects\MyCustomCoinToss\MyCustomCoinToss\obj\Debug\MyCustomCoinToss.pdb
