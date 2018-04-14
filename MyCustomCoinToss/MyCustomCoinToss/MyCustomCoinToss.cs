@@ -98,9 +98,12 @@ namespace CustomCoinToss
                 Write("Y/N >>  ");
                 name = ReadLine();
 
+                handleInvalidEntry(name);
+
                 if (name.ToUpper() == "N")
                 {
                     flipCoins();
+                    break;
                 }
             }
             while (name.ToUpper() == "Y" && name.ToUpper() != "N");
@@ -150,8 +153,6 @@ namespace CustomCoinToss
             while (flip < numToss);
 
             WriteLine(decoration);
-            WriteLine("\n\nPress any key to get your winner!");
-            ReadKey();
 
             winConditions();
         }
@@ -249,7 +250,7 @@ namespace CustomCoinToss
              * Prints the program header at the beginning of the program.
             */
 
-            WriteLine("\t\tCustom Coin Toss\n\t\t~~~~~~~~~~~~~~\n\n");
+            WriteLine("\t\tCustom Coin Toss\n\t\t~~~~~~~~~~~~~~~~\n\n");
         }
     }
 }
